@@ -111,3 +111,60 @@ body{
     font-size: 10px;
     color:rgb(181, 181, 181);
 }
+
+/* ============================================== */
+
+.credit-card{
+    width:250px;
+    background-color: white;
+    margin: 30px auto;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.cr-input{
+    width:100%;
+    padding:5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+.cr-btn{
+    width:100%;
+    padding: 5px;
+}
+.cr-img{
+    height: 200px;
+}
+.cr-heading{
+    font-size:24px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.cr-para{
+    font-size:10px;
+    margin-top: 4px;
+    color:rgb(163, 163, 163);
+}
+.cr-input{
+    border-radius: 5px;
+    border:1px solid rgb(48, 26, 129);
+    font-size: 10px;
+    color:rgb(186, 185, 185);
+    padding: 8px;
+}
+
+.cr-btn{
+    border:none;
+    border-radius: 5px;
+    background-color: rgb(48, 26, 129);
+    color:white;
+    font-size: 10px;
+    padding: 8px;
+}
+.cr-lastline{
+    font-size: 8px;
+    color: rgb(155, 141, 141);
+}
