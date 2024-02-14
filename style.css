@@ -168,3 +168,67 @@ body{
     font-size: 8px;
     color: rgb(155, 141, 141);
 }
+/* ======================================================== */
+.card-company{
+    width:300px;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 40px auto;
+    border-radius: 12px;
+}
+
+.company-img{
+    height: 150px;
+}
+
+.company-input{
+    width:100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid lightblue;
+    font-size:12px;
+    margin-bottom: 10px;
+}
+
+.company-select{
+    width:100%;
+    padding: 8px;
+    background-color: white;
+    border-radius: 5px;
+    border:1px solid lightblue;
+    margin-bottom: 10px;
+}
+
+.company-label{
+    font-size: 8px;
+    color:rgb(155, 155, 155);  
+    display: block; 
+    text-align: start; 
+    padding-bottom: 5px;
+}
+
+.company-btn{
+    background-color: lightblue;
+    font-size: 16px;
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+.company-heading{
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.company-para{
+    font-size: 12px;
+    line-height: 1.2;
+    color:rgb(135, 135, 135);
+    margin-bottom: 20px;
+}
