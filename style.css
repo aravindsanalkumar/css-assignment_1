@@ -41,7 +41,7 @@ body{
     border-radius: 12px;
 }
 
-.email-img{
+.img{
     height: 200px;
 }
 
@@ -64,14 +64,50 @@ body{
     font-size: 12px;
     cursor:pointer
 }
-.email-heading{
+.heading{
     font-size: 24px;
     margin-bottom: 0;
 }
 
-.email-para{
+.para{
     font-size:10px;
     margin-top: 5px;
     margin-bottom: 20px;
     color:rgb(141, 141, 141);
+}
+/* ============================================== */
+
+.welcome-card{
+    width:250px;
+    background-color: white;
+    margin: 30px auto;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.welcome-img{
+    height:100px;
+}
+
+.welcome-btn{
+    width:100%;
+    padding:8px;
+    margin-bottom: 5px;
+    border:none;
+    border-radius: 5px;
+    text-align: start;
+    font-size: 12px;
+    background-color: white;
+}
+
+.on{
+    background-color: rgb(231, 231, 231);
+}
+.welcome-para{
+    font-size: 10px;
+    color:rgb(181, 181, 181);
 }
