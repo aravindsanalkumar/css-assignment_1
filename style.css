@@ -232,3 +232,49 @@ body{
     color:rgb(135, 135, 135);
     margin-bottom: 20px;
 }
+/* ============================================== */
+.pizza-card{
+    width:338px;
+    background-color: white;
+    margin:50px auto;
+    /* padding-top:20px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px; */
+    border-radius: 12px;
+
+}
+
+.pizza-card-img{
+    height:270px;
+    border-radius: 10px;
+}
+
+.pizza-card-heading{
+    margin-bottom: 5px;
+    margin-top:10px;
+}
+
+.pizza-card-para{
+    color:rgb(104, 104, 104);
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.pizza-card-time{
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 0;
+    text-align: right;
+}
+.pizza-card-saftey{
+    font-size: 10px;
+    color:rgb(158, 158, 158);
+}
+.bottom{
+    border-top: 1px solid lightgrey;
+}
+.pizza-card-box{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
