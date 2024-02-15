@@ -246,7 +246,7 @@ body{
 }
 
 .pizza-card-img{
-    height:270px;
+    width:100%;
     border-radius: 10px;
 }
 
@@ -267,7 +267,7 @@ body{
     text-align: right;
 }
 .pizza-card-saftey{
-    font-size: 10px;
+    font-size: 12px;
     color:rgb(158, 158, 158);
 }
 .bottom{
